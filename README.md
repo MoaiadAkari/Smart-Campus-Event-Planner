@@ -1,6 +1,6 @@
-# Smart Campus Event Planner - Team 16
+# Smart Campus Event Planner 
 
-A full-stack SOEN 287 web application for discovering campus events, managing student registrations, tracking attendance, and viewing participation statistics.
+A full-stack web application for discovering campus events, managing student registrations, tracking attendance, and viewing participation statistics.
 
 ## Requirements
 
